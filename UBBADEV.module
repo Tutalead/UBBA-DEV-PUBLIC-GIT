@@ -1,9 +1,9 @@
 [global]
-UIName = UBBADEV
+UIName = UBBADEVPUBLIC
 Description = 
 Playable = 1
 DllName = DXP3Mod
-ModFolder = UBBA-DEV
+ModFolder = UBBA-DEV-PUBLIC
 ModVersion = 2.0.0
 TextureFE = 
 TextureIcon = 
